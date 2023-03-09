@@ -1,6 +1,6 @@
 
 
-| Sr.No  | Language |  Code |
+| NUM | Language |  Code |
 |:---:|:------|:--------------:|
 |1 | afrikaans | af |
 |2 | albanian | sq |
